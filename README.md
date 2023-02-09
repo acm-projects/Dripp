@@ -56,3 +56,18 @@
 <b><i> Muaaz Abed </i></b> - PM
 
 <b><i> Robyn Dean </i></b> - Industry Mentor
+
+
+## GitHub Cheat Sheet 🔄
+ 
+| Command | Description |
+| ------ | ------ |
+| cd "Dripp" | Change directories over to our repository |
+| git branch | Lists branches for you |
+| git branch "branch name" | Makes new branch |
+| git checkout "branch name" | Switch to branch |
+| git checkout -b "branch name" | Same as 2 previous commands together |
+| git add . | Finds all changed files |
+| git commit -m "Testing123" | Commit with message |
+| git push origin "branch" | Push to branch |
+| git pull origin "branch" | Pull updates from a specific branch |
