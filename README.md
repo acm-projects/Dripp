@@ -8,7 +8,7 @@
 - Add the ability to take your Dripp within the app
 - Allow users to list the clothes that they’re wearing in the photo
 - Add friends and see their Dripps from an inbox
-- Notify users with "<b>⚠️🤤 ITS TIME TO DRIPP 🤤⚠️</b>"
+- Notify users with "<b>⚠️💦 ITS TIME TO DRIPP 💦⚠️</b>"
 
 
 ## Stretch Goals 🏆
