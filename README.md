@@ -3,7 +3,7 @@
 
 <div align="center"> Have you ever worn clothes and have been like, “man, I want everyone to see my fit”. I have not. But maybe you have. Introducing Dripp, the only social media service dedicated to showing off which clothes you’re wearing. Dripp allows you to post a photo of your fit and allows you to tag your clothes that you’re wearing. You can also see your friends' fits from your inbox. </div>
 
-## MVP 📊
+## MVP 🏆
 
 - Add the ability to take your Dripp within the app
 - Allow users to list the clothes that they’re wearing in the photo
@@ -11,7 +11,7 @@
 - Notify users with "<b>⚠️💦 ITS TIME TO DRIPP 💦⚠️</b>"
 
 
-## Stretch Goals 🏆
+## Stretch Goals 📊
 
 - Add instagram-like library feature to see a user's previous posts
 - Links clothes directly to store from where it can be bought
