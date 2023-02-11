@@ -73,5 +73,5 @@
 
 ## Special Thanks 👏
 
- - Special thanks to ACM leadership for helping give us the opportunity for Dripp to happen
+ - Special thanks to ACM leadership for giving us the opportunity for Dripp to happen
  - Special thanks to MYra ShanE for the logo
