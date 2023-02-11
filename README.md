@@ -1,5 +1,4 @@
-
-<p align="center"> <img src="https://user-images.githubusercontent.com/102186088/217662489-d331eb7d-da10-41fb-af3d-f30fad93a39f.JPG" alt="HTML5 Icon" style="width:60%;height:60%;"/> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/102186088/218238083-69cc8d6a-4638-438c-bfcd-7731e30cfd60.png" alt="HTML5 Icon" style="width:60%;height:60%;"/> </p>
 
 <div align="center"> Have you ever worn clothes and have been like, “man, I want everyone to see my fit”. I have not. But maybe you have. Introducing Dripp, the only social media service dedicated to showing off which clothes you’re wearing. Dripp allows you to post a photo of your fit and allows you to tag your clothes that you’re wearing. You can also see your friends' fits from your inbox. </div>
 
@@ -71,3 +70,8 @@
 | git commit -m "TestyTestTest" | Commit with message |
 | git push origin "branch" | Push to branch |
 | git pull origin "branch" | Pull updates from a specific branch |
+
+## Special Thanks 👏
+
+ - Special thanks to ACM leadership for helping give us the opportunity for Dripp to happen
+ - Special thanks to MYra ShanE for the logo
