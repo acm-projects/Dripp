@@ -59,6 +59,8 @@
 
 ## GitHub Cheat Sheet 🔄
  
+ [Master Github Cheat Sheet](https://www.atlassian.com/dam/jcr:8132028b-024f-4b6b-953e-e68fcce0c5fa/atlassian-git-cheatsheet.pdf)
+ 
 | Command | Description |
 | ------ | ------ |
 | cd "Dripp" | Change directories over to our repository |
