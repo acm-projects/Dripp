@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "472699216659",
+    "project_id": "dripp-870df",
+    "storage_bucket": "dripp-870df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472699216659:android:b407b4b44fea2d56b4f0e6",
+        "android_client_info": {
+          "package_name": "com.abhishekmadhavan.newApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472699216659-la6ji066qae3usou38hdaq3443kd5eui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANCtfGhdHPoUobqX-kNZ1Y--HWBLlcZOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472699216659-la6ji066qae3usou38hdaq3443kd5eui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
